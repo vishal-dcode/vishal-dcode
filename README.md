@@ -3,7 +3,7 @@ I'm Vishal, A Self-Taught Enthusiast With Experience In Web Development, Graphic
 
 
 ## Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vishalzen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flexcode.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvishwakarma-b19a08208/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vishalzen) [![Vishal Portfolio](https://img.shields.io/badge/Vishal_Portfolio-%2312100E.svg?logo=firefox-browser&logoColor=red)](https://vishalzen.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flexcode.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvishwakarma-b19a08208/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vishalzen) [![Vishal Portfolio](https://img.shields.io/badge/Vishal_Portfolio-%2312100E.svg?logo=firefox-browser&logoColor=red)](https://vishalzen.netlify.app/)
 
 
 ## Skills & Experience:
