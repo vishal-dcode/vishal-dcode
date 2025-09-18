@@ -3,7 +3,7 @@ I’m Vishal, a self-taught Web Developer & Graphic Designer who loves UI/UX Des
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/vishal-s-vishwakarma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/vs-vishwakarma/)
 [![Instagram](https://img.shields.io/badge/Smartec-ed0879.svg?logo=Instagram&logoColor=white&style=plastic)](https://www.instagram.com/smartec.in/) 
 [![Behance](https://img.shields.io/badge/Behance-0068ff.svg?logo=behance&logoColor=white&style=plastic)](https://www.behance.net/vishaaal)
 [![Medium](https://img.shields.io/badge/Medium-272626?logo=medium&logoColor=white&style=plastic)](https://medium.com/@vishaaal)
